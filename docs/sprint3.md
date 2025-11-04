@@ -1,3 +1,5 @@
+[![back](assets/images/back.png)](navigation.md)
+
 # 🏁 Sprint 3: Iteración Final y Cierre
 
 **Duración:** Semana 3  

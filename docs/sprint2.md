@@ -1,3 +1,5 @@
+[![back](assets/images/back.png)](navigation.md)
+
 # 🚀 Sprint 2: Estructuración y Planificación
 
 **Duración:** Semanas 2-3  

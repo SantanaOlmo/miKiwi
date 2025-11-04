@@ -1,3 +1,5 @@
+[![back](assets/images/back.png)](navigation.md)
+
 # Sprint 1️⃣: Descubrimiento y Definición
 
 **Objetivo del Sprint:** Detectar necesidades reales del sector, generar propuestas de solución innovadoras y analizar su viabilidad técnica inicial.
