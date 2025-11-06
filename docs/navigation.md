@@ -7,6 +7,8 @@
 - [Sprint 2](sprint2.md)
   
 - [Sprint 3](sprint3.md)
+  
+- [generacion de imagenes de muñecas](dolls_generator.md)
 
 - [Estructura del Proyecto](project-structure.md)  
   Explicación de carpetas y ficheros principales del proyecto.
