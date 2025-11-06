@@ -10,9 +10,9 @@
 - migue.626@alumnos.ilerna.com
 - alberto16166@alumnos.ilerna.com
 
-[![Trello](docs/assets/images/LogosTrello.png)Trello](https://trello.com/b/aK6gUpA1/mikiwi)
+[![Trello](docs/assets/images/icons/LogosTrello.png)Trello](https://trello.com/b/aK6gUpA1/mikiwi)
 
-[![Figma](docs/assets/images/DeviconFigma.png) Figma](https://www.figma.com/design/g4RqrpA8bOQvTRcFc7qPZ7/mikiwi?node-id=0-1&t=9hHF1m4iv6SLO8IL-1)
+[![Figma](docs/assets/images/icons/DeviconFigma.png) Figma](https://www.figma.com/design/g4RqrpA8bOQvTRcFc7qPZ7/mikiwi?node-id=0-1&t=9hHF1m4iv6SLO8IL-1)
 
 
 ### páginas web de referencia

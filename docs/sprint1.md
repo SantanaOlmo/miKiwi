@@ -1,4 +1,4 @@
-[![back](assets/images/back.png)](navigation.md)
+[![back](assets/images/icons//back.png)](../README.md)
 
 # Sprint 1️⃣: Descubrimiento y Definición
 

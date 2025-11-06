@@ -1,4 +1,4 @@
-[![back](assets/images/back.png)](navigation.md)
+[![back](assets/images/icons//back.png)](../README.md)
 
 # 🚀 Sprint 2: Estructuración y Planificación
 
