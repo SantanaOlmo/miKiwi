@@ -82,7 +82,7 @@ classDiagram
     Backend --> Redsys
     Backend --> PanelAdmin
 ```
-
+---
 ```mermaid
 classDiagram
     class Inicio {
@@ -97,10 +97,6 @@ classDiagram
     class Catalogo {
         +verProductos()
         +buscarProductos()
-    }
-
-    class ConfiguradorMuñeca {
-        +personalizarMuñecaOpcional()
     }
 
     class Carrito {
@@ -126,9 +122,7 @@ classDiagram
 
     Inicio --> Registro
     Registro --> Catalogo
-    Catalogo --> ConfiguradorMuñeca : opcional
     Catalogo --> Carrito
-    ConfiguradorMuñeca --> Carrito
     Carrito --> Pago
     Pago --> Pedido
     Pedido --> Soporte : si necesita soporte
