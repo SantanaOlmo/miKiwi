@@ -83,6 +83,7 @@ classDiagram
     Backend --> PanelAdmin
 ```
 ---
+
 ```mermaid
 classDiagram
     class Inicio {
